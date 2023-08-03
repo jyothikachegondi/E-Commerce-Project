@@ -1,0 +1,20 @@
+li{
+    display:inline;
+    padding:25px;
+}
+.container-fluid{
+    position:fixed;
+}
+#search{
+    margin-top:auto;
+}
+a:hover{
+    background-color:pink;
+    color: brown;
+}
+#nav1{
+    margin-top: 20px;
+}
+
+
+

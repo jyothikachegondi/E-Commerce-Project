@@ -1,0 +1,278 @@
+#download{
+    background-color: darkmagenta;
+    color:black;
+    height:50px;
+    width:300px;
+}
+
+#low{
+   text-align:left;
+   margin-left:300px;
+   margin-top:100px;
+}
+#pic{
+ 
+  margin-top:-250px;
+  margin-left:700px;
+  
+}
+#del{
+    margin-left:-50px;
+}
+button{
+    margin-top:30px;
+}
+nav{
+    margin-top:30px;
+}
+#Main{
+    height:400px;
+}
+#fashion{
+    
+    height:500px;
+    width:1100px;
+    margin:auto;
+    background: linear-gradient(180deg, bisque,lavender);
+    /* position: relative; */
+    
+}
+#wstore{
+    height:400px;
+    width:300px;
+    margin-top:-100px;
+    margin-left:25px;
+  
+}
+#mstore{
+    margin-top:-265px;
+    margin-left:100px;
+}
+#kstore{
+    margin-top:-285px;
+    margin-left:750px;
+}
+#text{
+    margin-left:600px;
+    margin-bottom:-50px;   
+}
+#decoration{
+    background:linear-gradient(180deg,lavender,bisque);   
+    height:500px;
+    width:1100px;
+    margin:auto;
+    /* background-image: url(https://images.meesho.com/images/products/153235314/sefeq_512.webp); */
+    /* background-image: url(https://images.meesho.com/images/products/153235314/sefeq_512.webp),linear-gradient(lavender,bisque); */
+    background-size: 100%;
+}
+#ess{
+    margin-top:200px;
+    margin-left:-800px; 
+}
+/* #n1{
+    margin-top:200px;
+    margin-left:-800px; 
+} */
+#n1,#b1 b{
+    /* margin-left:100px;
+    margin-bottom:-600px; */
+    /* position: relative; */
+    margin-top:150px;
+    margin-left: 100px;
+}
+#ess b{
+
+    margin-top:500px;
+}
+#kapp{
+    margin-top:-345px;
+    margin-left:315px;
+}
+#hcare{
+    margin-top:-335px;
+    margin-left:800px;
+}
+#hdecor{
+    margin-left:-200px;
+    margin-top:-240px;  
+}
+#newstyles{
+    background:linear-gradient(180deg,bisque,white);   
+    height:500px;
+    width:1100px;
+    margin-top:-50px;
+    margin-left:190px;
+}
+#acce{
+    margin-left:-150px;
+    margin-top:-240px;
+}
+#foot{
+    margin-top:-335px;
+    margin-left:315px;
+}
+#elec{
+    margin-top:-335px;
+    margin-left:800px;
+}
+#n1{
+    text-align:left;
+}
+#pro{
+    text-align: left;
+}
+#items{
+   display:inline;
+   height:200px;
+}
+#item1{
+    height:550px;
+    width:450px;
+    background-color: white;
+    border:1px solid black;
+}
+#img1{
+    height:300px;
+    width:400px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#item2{
+    height: 550px;
+    width:450px;
+    margin-left:500px;
+    margin-top:-550px;
+    border:1px solid black;
+}
+#item3{
+    height:550px;
+    width:450px;
+    margin-left:1000px;
+    margin-top:-550px;
+    border:1px solid black;
+   
+}
+#items1{
+    display:inline;
+    height:200px;
+ }
+ #img2{
+    height:400px;
+    width:400px;
+ }
+ #items2{
+    display: inline;
+ }
+ #item4{
+    margin-left:-1000px;  
+    margin-top:100px;
+ }
+ #item5{
+    margin-top:-580px;
+    
+ }
+ #item6{
+    margin-left:1000px;
+    margin-top:-579px;
+    
+ }
+#text{
+    margin-top:50px;
+} 
+#row1{
+    height:320px;
+    width:1200px;
+    justify-content: space-around;
+    display:inline-flex;
+    margin-bottom:50px;
+}
+#img1,#img2,#img3,#img4{
+    height:350px;
+    width:260px;
+    border:1px solid rgb(193,191,191);
+    margin:20px;
+    margin-top:10px;
+    border-radius: 10px;
+}
+#img{
+    height:200px;
+    width:200px;
+}
+#name{
+    font-weight:100px;
+    color:grey;
+    margin-top:2px;
+    margin-bottom:1px;
+    font-size:15px;
+}
+#cost{
+    text-align: start;
+    margin-left:15px;
+    margin-top:3px;
+    margin-bottom:2px;
+    font-size:12px;
+    color:grey;
+    font-weight:100px;
+}
+ #delivery{
+    width:100px;
+    height:25px;
+    border:1px solid  rgb(248, 248, 248);
+   background-color: rgb(248, 248, 248);
+    border-radius: 20px;
+    margin-top:8px;
+    margin-left:12px ;
+} 
+#rating{
+    width:50px;
+    height:25px;
+    border:1px solid  rgb(227, 227, 242);
+    /* color:blue; */
+    border-radius: 20px;
+    text-align:center;
+    margin-left:20px;
+}
+#Reviews{
+    color:rgb(84,82,82);
+}
+b{
+    font-size:25px;
+    color:black;
+}
+.hr-text {
+    line-height: 1em;
+    position: relative;
+    outline: 0;
+    border: 0;
+    color: black;
+    text-align: center;
+    height: 1.5em;
+    opacity: .5;
+    font-size: 50px;
+    
+    &:before {
+        content: '';
+        /* // use the linear-gradient for the fading effect
+        // use a solid background color for a solid bar */
+        background: linear-gradient(to right, transparent, black, transparent);
+        position: absolute;
+        left: 0;
+        top: 50%;
+        width: 100%;
+        height: 1px;
+      }
+      &:after {
+        content: attr(data-content);
+        position: relative;
+        display: inline-block;
+        color: black;
+    
+        padding: 0 .5em;
+        line-height: 1.5em;
+        /* this is really the only tricky part, you need to specify the background color of the container element... */
+        color: black;
+        background-color: white;
+      }
+    }
+
+   

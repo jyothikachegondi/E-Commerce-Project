@@ -1,0 +1,60 @@
+#row1{
+    height:320px;
+    width:1200px;
+    justify-content: space-around;
+    display:inline-flex;
+    margin-bottom:50px;
+}
+#img1,#img2,#img3,#img4{
+    height:350px;
+    width:260px;
+    border:1px solid rgb(193,191,191);
+    margin:20px;
+    margin-top:10px;
+    border-radius: 10px;
+}
+#img{
+    height:200px;
+    width:200px;
+}
+#name{
+    font-weight:100px;
+    color:grey;
+    margin-top:2px;
+    margin-bottom:1px;
+    font-size:15px;
+}
+#cost{
+    text-align: start;
+    margin-left:15px;
+    margin-top:3px;
+    margin-bottom:2px;
+    font-size:12px;
+    color:grey;
+    font-weight:100px;
+}
+ #delivery{
+    width:100px;
+    height:25px;
+    border:1px solid  rgb(248, 248, 248);
+   background-color: rgb(248, 248, 248);
+    border-radius: 20px;
+    margin-top:8px;
+    margin-left:12px ;
+} 
+#rating{
+    width:50px;
+    height:25px;
+    border:1px solid  rgb(227, 227, 242);
+    /* color:blue; */
+    border-radius: 20px;
+    text-align:center;
+    margin-left:20px;
+}
+#Reviews{
+    color:rgb(84,82,82);
+}
+b{
+    font-size:25px;
+    color:black;
+}
